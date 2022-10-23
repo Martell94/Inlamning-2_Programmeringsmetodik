@@ -8,3 +8,7 @@ variabeln, och inte behöva fippla med returtyper.
 2:
 static void* person_print var ett av de första sakerna jag korrigerade. Sen så hade åldern av någon anledning fått typen size_t när den passades in,
 vilket jag ändrade till int. Man hade också satt dereferensoperatorer på name och occupation när de skulle printas, vilka jag plockade bort. 
+
+Ang VG-Uppgift:
+Jag lyckades inte riktigt få till koden, men inkluderar ändå det jag skrev bara för att. 
+Man skulle väl kunna googla hur folk löst det, men jag ville prova själv. 
